@@ -17,7 +17,7 @@ Successfully deployed a highly available static website displaying local beach w
      <img width="226" height="88" alt="3" src="https://github.com/user-attachments/assets/e383b3d1-2c3e-4081-8840-0985b241f77b" />
 
 
-*   **IAM Bucket Policy:** Authored and applied a custom JSON bucket policy granting the `s3:GetObject` action to ensure all items in the bucket were publicly readable.
+*   **IAM Bucket Policy:** As you can see it has default json policy granting the `s3:GetObject` action to ensure all items in the bucket were publicly readable.
     
      <img width="341" height="192" alt="4" src="https://github.com/user-attachments/assets/2c13ee4a-06b0-4f03-adb9-bd569bc14157" />
 
