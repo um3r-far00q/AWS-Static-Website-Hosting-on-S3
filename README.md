@@ -7,7 +7,8 @@ Successfully deployed a highly available static website displaying local beach w
 
 *   **Asset Upload:** Uploaded the core website files to an S3 bucket named `website-bucket-2917a580-c0c2`, including `index.html`, `styles.css`, and `main.js`.
     
-    ![2](https://github.com/user-attachments/assets/70c5d369-fe26-4817-996c-7b54001a3b91)
+  <img width="3114" height="1376" alt="Gemini_Generated_Image_uhupdpuhupdpuhup" src="https://github.com/user-attachments/assets/730a8313-4265-4ffd-8dd8-9002c5ce7ef5" />
+
 
 
 
@@ -15,21 +16,25 @@ Successfully deployed a highly available static website displaying local beach w
 
 *   **Public Access Configuration:** Navigated to the Permissions tab and confirmed that the "Block all public access" setting was turned off.
     
-     <img width="226" height="88" alt="3" src="https://github.com/user-attachments/assets/e383b3d1-2c3e-4081-8840-0985b241f77b" />
+     <img width="3288" height="1280" alt="Gemini_Generated_Image_11hlcw11hlcw11hl" src="https://github.com/user-attachments/assets/35754278-4c70-4c66-ab01-d4003bb79c59" />
+
 
 
 *   **IAM Bucket Policy:** As you can see it has default json policy granting the `s3:GetObject` action to ensure all items in the bucket were publicly readable.
     
-     <img width="341" height="192" alt="4" src="https://github.com/user-attachments/assets/2c13ee4a-06b0-4f03-adb9-bd569bc14157" />
+     <img width="2752" height="1536" alt="Gemini_Generated_Image_pkoqtopkoqtopkoq" src="https://github.com/user-attachments/assets/20bb79b8-d21f-4d4b-889d-1ed9a4ab4984" />
+
 
 *   **Static Hosting Setup:** Enabled "Static website hosting" in the bucket properties. Configured the index document as `index.html` and the error document as `error.html` to perfectly match the uploaded object names.
     
-    <img width="341" height="192" alt="6" src="https://github.com/user-attachments/assets/d5276f69-5256-4696-acc8-23d1065cf27c" />
+    <img width="2728" height="1536" alt="Gemini_Generated_Image_hsp4nthsp4nthsp4" src="https://github.com/user-attachments/assets/8c1e22a2-cb37-4e30-ae3e-7ced54216a5e" />
+
 
 
 *   **Verification:** Accessed the generated AWS bucket website endpoint to verify the HTML and CSS rendered correctly on the live web.
     
-    <img width="463" height="236" alt="image_133023" src="https://github.com/user-attachments/assets/38345e13-a275-4bd7-a131-938bb1b00c03" />
+   <img width="2752" height="1536" alt="Gemini_Generated_Image_lxxabxlxxabxlxxa" src="https://github.com/user-attachments/assets/e2d206b9-a965-450e-bba8-2c5f30ca14b7" />
+
 
 
 
