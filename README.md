@@ -7,7 +7,8 @@ Successfully deployed a highly available static website displaying local beach w
 
 *   **Asset Upload:** Uploaded the core website files to an S3 bucket named `website-bucket-2917a580-c0c2`, including `index.html`, `styles.css`, and `main.js`.
     
-    <img width="500" height="250" alt="2" src="https://github.com/user-attachments/assets/c79bdaa5-dcad-4757-bb1d-0f4093b5b08b" />
+    ![2](https://github.com/user-attachments/assets/70c5d369-fe26-4817-996c-7b54001a3b91)
+
 
 
 
